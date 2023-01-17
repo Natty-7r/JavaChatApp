@@ -84,7 +84,7 @@ public class HelloApplication extends Application {
         chatBox.getChildren().addAll(chatHeader,chatView);
 
         chatApp.getChildren().addAll(contacts,chatBox);
-
+   //
         return  chatApp;
 
     }
